@@ -427,7 +427,7 @@ body.light-theme {
 /*=============== ABOUT ===============*/
 .about__container {
   row-gap: 2.5rem;
-  margin-left: 600px;
+  
 }
 
 .about__img {
